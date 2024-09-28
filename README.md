@@ -14,7 +14,7 @@ docker run -it --gpus all \
     mmhuman3d
 ```
 
-# Run demo in mmhuma3d
+# Run demo in mmhuman3d
 
 ```
 python demo/estimate_smpl.py \
